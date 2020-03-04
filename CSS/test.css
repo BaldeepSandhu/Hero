@@ -1,0 +1,24 @@
+h1{
+	font-size: 30px;
+	color: blue;
+}
+h2{
+	font-size: 20px;
+	color: white;
+}
+.big{
+	font-size: 45px;
+}
+.biggus{
+	font-style: italic;
+}
+.big.biggus{
+	background-color: red;
+	font-family: sans-serif;
+}
+span{
+	color:white;
+}
+body{
+	background-color: darkgray;
+}
